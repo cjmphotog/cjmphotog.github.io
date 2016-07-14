@@ -11,3 +11,11 @@ h1 {
 	text-shadow: 2px 2px #646464;
 	letter-spacing: 6px;
 }
+
+a:link {
+	color: #ffffff;
+}
+
+a:visited {
+	color: #646464;
+}

@@ -11,19 +11,15 @@ body {
 
 #slogan {
 	text-shadow: 2px 2px #646464;
-	letter-spacing: 6px;
 }
 
 #background {
-	webkit-background-size: cover;
-	moz-background-size: cover;
-	o-background-size: cover;
 	background-size: cover;
 }
 
 p {
 	color: #ffffff;
-	font-family: "Brandon Grotesque" "Helvetica" "sans-serif";
+	font-family: "Brandon Grotesque";
 	src: url(fonts/brandon_reg.otf);
 }
 

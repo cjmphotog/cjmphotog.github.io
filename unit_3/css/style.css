@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	background: url("http://imgur.com/a/SLS6S");
-	background-size: cover;
+	background-size: auto;
 	color: #ffffff;
 	font-family: "Brandon Grotesque", Helvetica, sans-serif;
 }

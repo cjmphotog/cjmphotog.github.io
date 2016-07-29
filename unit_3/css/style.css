@@ -1,10 +1,12 @@
 body {
 	text-align: center;
-	background: url("images/carlosjmatos_greg_davis_editorial_portrait.jpg");
-	background-size: cover;
 	color: #ffffff;
 	font-family: "Brandon Grotesque", Helvetica, sans-serif;
 	src: url(fonts/brandon_reg.otf);
+}
+
+#background {
+	background-size: cover;
 }
 
 #logo {
@@ -16,10 +18,6 @@ body {
 
 #slogan {
 	text-shadow: 2px 2px #646464;
-}
-
-p {
-	color: #ffffff;
 }
 
 a:visited {

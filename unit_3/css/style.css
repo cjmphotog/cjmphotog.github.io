@@ -1,7 +1,6 @@
 body {
 	text-align: center;
 	background: url("http://imgur.com/a/SLS6S");
-	background-size: auto;
 	color: #ffffff;
 	font-family: "Brandon Grotesque", Helvetica, sans-serif;
 }
@@ -14,7 +13,7 @@ body {
 }
 
 #slogan {
-	size: 16px;
+	font-size: 16px;
 	text-shadow: 2px 2px #646464;
 }
 

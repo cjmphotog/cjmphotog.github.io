@@ -16,6 +16,8 @@ body {
 
 #logobox {
 	background: #c6bfb5;
+	box-sizing: border-box;
+	border-radius: 25px;
 }
 
 #slogan {

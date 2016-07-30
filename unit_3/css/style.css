@@ -19,6 +19,7 @@ body {
 	width: 50%;
 	height: 50%;
 	border: 0px;
+	margin: 0 auto;
 	box-sizing: border-box;
 	border-radius: 25px;
 }

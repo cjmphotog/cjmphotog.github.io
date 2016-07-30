@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: url("http://i.imgur.com/yO7heKT.jpg");
+	background: url("http://i.imgur.com/cRAHQli.jpg");
 	background-size: cover;
 	background-color: #c6bfb5;
 	color: #ffffff;
@@ -12,16 +12,6 @@ body {
 	height: 15%;
 	display: inline-block;
 	margin: 20px;
-}
-
-#logobox {
-	background: #c6bfb5;
-	width: 50%;
-	height: 50%;
-	border: 0px;
-	margin: 0 auto;
-	box-sizing: border-box;
-	border-radius: 25px;
 }
 
 #slogan {

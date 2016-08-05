@@ -3,7 +3,6 @@ body {
 	text-align: center;
 	background: url(../images/carlosjmatos_greg_davis_editorial_portrait.jpg);
 	background-size: cover;
-	background-color: #c6bfb5;
 	color: #ffffff;
 	font-family: 'Source Sans Pro', sans-serif;
 
@@ -15,7 +14,7 @@ h3 {
 div {
 	background: rgba(79, 12, 114, 0.48);
     height: 100vh;
-    
+
 }
 #logo {
 	width: 15%;

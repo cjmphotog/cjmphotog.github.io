@@ -5,6 +5,7 @@ body {
 	background-size: cover;
 	color: #ffffff;
 	font-family: 'Source Sans Pro', sans-serif;
+}
 
 h3 {
 	font-family: 'Ek Mukta', sans-serif;
@@ -12,7 +13,7 @@ h3 {
 
 }
 div {
-	background: rgba(0, 0, 0, 0.25);
+	background: rgba(66, 66, 66, 0.5);
     height: 100vh;
 
 }
@@ -20,7 +21,12 @@ div {
 	width: 15%;
 	display: inline-block;
 	margin: 20px;
+}
 
 a {
 	color: #c6bfb5;
+}
+
+a-visited {
+	color: #565656;
 }

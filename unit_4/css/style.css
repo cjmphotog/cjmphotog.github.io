@@ -1,0 +1,31 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+body {
+	text-align: center;
+	background: url(../images/carlosjmatos-greg-davis-editorial-portrait.JPG);
+	background-size: cover;
+	color: #ffffff;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3 {
+	font-family: 'Ek Mukta', sans-serif;
+}
+
+div {
+	background: rgba(66, 66, 66, 0.5);
+    height: 100vh;
+}
+
+#logo {
+	width: 15%;
+	display: inline-block;
+	margin: 20px;
+}
+
+a {
+	color: #c6bfb5;
+}
+
+a-visited {
+	color: #565656;
+}

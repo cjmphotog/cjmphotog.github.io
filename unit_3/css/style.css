@@ -11,12 +11,11 @@ h3 {
 	font-family: 'Ek Mukta', sans-serif;
 }
 
-}
 div {
 	background: rgba(66, 66, 66, 0.5);
     height: 100vh;
-
 }
+
 #logo {
 	width: 15%;
 	display: inline-block;

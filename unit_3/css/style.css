@@ -1,15 +1,19 @@
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
 	text-align: center;
-	background: url("http://i.imgur.com/cRAHQli.jpg");
+	background: url(../images/carlosjmatos_greg_davis_editorial_portrait.jpg);
 	background-size: cover;
 	background-color: #c6bfb5;
 	color: #ffffff;
 	font-family: "Brandon Grotesque", Helvetica, sans-serif;
 }
-
+div{
+	background: rgba(79, 12, 114, 0.48);
+    height: 100vh;
+    /* background: linear-gradient(to top, rgba(255,0,0,0), rgba(42, 131, 89, 0.83)); */
+}
 #logo {
 	width: 15%;
-	height: 15%;
 	display: inline-block;
 	margin: 20px;
 }

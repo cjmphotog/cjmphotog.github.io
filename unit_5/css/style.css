@@ -27,3 +27,13 @@ section {
 	border: 1px black solid;
 	padding: 20px;
 }
+
+#home {
+	float: left;
+	padding: 20px;
+}
+
+#content {
+	float: right;
+	padding: 20px;
+}

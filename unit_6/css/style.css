@@ -38,6 +38,12 @@ section {
 	padding: 20px;
 }
 
+img {
+	max-width: 100%:
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;

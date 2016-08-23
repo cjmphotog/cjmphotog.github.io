@@ -28,10 +28,8 @@ div {
 	float: right;
 }
 
-footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
+main {
+	clear: both;
 }
 
 section {
@@ -40,11 +38,8 @@ section {
 	padding: 20px;
 }
 
-#nav:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }

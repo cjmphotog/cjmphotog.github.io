@@ -30,7 +30,7 @@ section {
 
 #home {
 	height: auto;
-	width: 150px;
+	max-width: 150px;
 	float: left;
 }
 

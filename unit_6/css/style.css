@@ -62,7 +62,6 @@ h1 {
     height: 0;
 }
 
-.portrait {
+img.portrait {
 	max-width: 100%;
-	height: auto;
 }

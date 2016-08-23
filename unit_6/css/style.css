@@ -16,6 +16,10 @@ div {
 	display: inline-block;
 }
 
+#nav-top {
+	clear: both;
+}
+
 #home {
 	height: auto;
 	width: auto;

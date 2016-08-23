@@ -7,23 +7,36 @@ header {
 nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
-	padding: 20px;
-}
-
-footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
 }
 
 div {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
+	display: inline-block;
+}
+
+#home {
+	height: auto;
+	width: auto;
+	max-height: 69px;
+	max-width: 80px;
+	float: left;
+}
+
+#content {
+	float: right;
+	clear: both;
 }
 
 section {
 	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
 }

@@ -1,3 +1,7 @@
+body {
+	font-family: "Source Sans Pro", serif;
+}
+
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -14,6 +18,27 @@ div {
 	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: "Ek Mukta", serif;
+}
+
+h1 {
+	text-transform: uppercase;
 }
 
 #home {
@@ -35,17 +60,4 @@ div {
     content: " ";
     clear: both;
     height: 0;
-}
-
-section {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-	text-align: center;
 }

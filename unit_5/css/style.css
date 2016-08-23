@@ -29,8 +29,8 @@ section {
 }
 
 #home {
-	height: .25em;
-	width: .25em;
+	height: auto;
+	width: 150px;
 	float: left;
 }
 

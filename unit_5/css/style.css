@@ -19,6 +19,7 @@ div {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
+	display: inline-block;
 }
 
 section {
@@ -28,13 +29,11 @@ section {
 }
 
 #home {
-	display: block;
+	height: .25em;
+	width: .25em;
 	float: left;
-	padding: 20px;
 }
 
 #content {
-	display: block;
 	float: right;
-	padding: 20px;
 }

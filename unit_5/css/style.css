@@ -7,7 +7,6 @@ header {
 nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
-	clear: both;
 }
 
 div {
@@ -27,6 +26,10 @@ div {
 
 #content {
 	float: right;
+}
+
+#splash {
+	clear: both;
 }
 
 section {

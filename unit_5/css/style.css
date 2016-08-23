@@ -9,17 +9,29 @@ nav {
 	border: 1px black solid;
 }
 
-footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-}
-
 div {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
+}
+
+#home {
+	height: auto;
+	width: auto;
+	max-height: 69px;
+	max-width: 80px;
+	float: left;
+}
+
+#content {
+	float: right;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 section {
@@ -28,14 +40,11 @@ section {
 	padding: 20px;
 }
 
-#home {
-	height: auto;
-	width: auto;
-	max-height: 130px;
-	max-width: 150px;
-	float: left;
-}
-
-#content {
-	float: right;
+#stories-content:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }

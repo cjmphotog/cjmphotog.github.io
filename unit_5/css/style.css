@@ -40,7 +40,7 @@ section {
 	padding: 20px;
 }
 
-#stories-content:after {
+#nav:after {
 	visibility: hidden;
 	display: block;
 	font-size: 0;

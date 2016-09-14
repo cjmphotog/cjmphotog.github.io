@@ -16,6 +16,12 @@ header {
 	float: right;
 }
 
+main {
+	padding: 70px 0;
+	border: 3px
+	text-align: center;
+}
+
 div {
 	background-color: #FFE2B8;
 	border: 1px black solid;

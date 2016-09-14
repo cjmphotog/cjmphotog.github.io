@@ -44,6 +44,10 @@ h1, h2 {
 	text-transform: uppercase;
 }
 
+#sponsor-top-title {
+	text-transform: uppercase;
+}
+
 #home {
 	height: auto;
 	width: auto;

@@ -20,7 +20,6 @@ header {
 #nav-top {
 	float: right;
 	font-family: "Oswald", sans-serif;
-	font-size: 30pt;
 	text-transform: uppercase;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -37,18 +36,8 @@ a:hover {
 	text-decoration: none;
 }
 
-#splash {
-	font-size: 24pt;
-}
-
 h1 {
 	color: #d22027;
-}
-
-section {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
 }
 
 footer {

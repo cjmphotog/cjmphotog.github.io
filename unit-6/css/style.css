@@ -85,7 +85,21 @@ a.cta2 {
 	background-color: #e5e5e5;
 	font-family: "Oswald", sans-serif;
 	color: #ffffff;
-	display: block;
+	display: inline-block;
+	font-size: .8em;
+	letter-spacing: 1px;
+	width: 8em;
+	border-radius: 1em;
+	margin: 1em;
+	padding: 1em;
+	text-align: center;
+	text-decoration: none;
+	-webkit-transition: .2s;
+}
+
+a.cta2:hover {
+	background-color: #808080;
+	-webkit-transition: .2s;
 }
 
 footer {

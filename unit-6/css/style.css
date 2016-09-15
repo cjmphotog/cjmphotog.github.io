@@ -89,6 +89,7 @@ a.cta1:hover {
 
 #sponsor-top-title {
 	text-transform: uppercase;
+	padding-bottom: 1em;
 }
 
 a.cta2 {
@@ -183,11 +184,15 @@ img#film {
 
 #sponsors-bottom {
 	text-transform: uppercase;
-	display: inline-block;
     text-align: center;
+    font-size: 1.2em;
     padding-left: 3em;
     padding-right: 6em;
     padding-bottom: 8em;
+}
+
+#sponsors-bottom-title {
+	padding-bottom: 1em;
 }
 
 .clearfix:after {

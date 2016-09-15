@@ -50,6 +50,15 @@ header {
 	word-spacing: 1em;
 }
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
 #splash {
 	padding: 8em;
 	text-align: center;
@@ -189,15 +198,7 @@ img#film {
 }
 
 footer {
+	background-color: #e5e5e5;
 	padding: 20px;
 	text-align: center;
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
 }

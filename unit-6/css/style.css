@@ -82,6 +82,10 @@ a.cta1:hover {
 	text-transform: uppercase;
 }
 
+#sponsor-top-title {
+	text-transform: uppercase;
+}
+
 a.cta2 {
 	background-color: #e5e5e5;
 	font-family: "Oswald", sans-serif;

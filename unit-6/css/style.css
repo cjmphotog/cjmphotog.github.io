@@ -5,7 +5,7 @@ body {
 }
 
 h1, h2, h3 {
-	font-family: "Oswald", serif;
+	font-family: "Oswald", sans-serif;
 }
 
 h1, h2 {
@@ -13,13 +13,24 @@ h1, h2 {
 }
 
 header {
+	background-color: #e5e5e5;
 	padding: 20px;
 }
 
 #nav-top {
-	background-color: #E8C66A;
-	border: 1px black solid;
 	float: right;
+	font-family: "Oswald", sans-serif;
+	text-transform: uppercase;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+a {
+	color: #000000;
+}
+
+a:hover {
+	color: #575757;
 }
 
 div {

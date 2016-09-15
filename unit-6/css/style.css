@@ -23,10 +23,12 @@ header {
 	text-transform: uppercase;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	word-spacing: 1.5em;
 }
 
 a {
 	color: #000000;
+	text-decoration: none;
 }
 
 a:hover {

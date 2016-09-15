@@ -20,10 +20,11 @@ header {
 #nav-top {
 	float: right;
 	font-family: "Oswald", sans-serif;
+	font-size: 30pt;
 	text-transform: uppercase;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	word-spacing: 2em;
+	word-spacing: 1em;
 }
 
 a {
@@ -34,6 +35,14 @@ a {
 a:hover {
 	color: #575757;
 	text-decoration: none;
+}
+
+#splash {
+	font-size: 24pt;
+}
+
+h1 {
+	color: #d22027;
 }
 
 div {

@@ -110,11 +110,19 @@ a.cta2:hover {
 }
 
 #stories-content {
-	padding: 8em;
+	padding-left: 8em;
+    padding-right: 8em;
+    padding-bottom: 8em;
 }
 
 .people {
 	display: inline-block;
+    position: relative;
+    padding: 1em;
+}
+
+img {
+	max-width: 100%;
 }
 
 .overlay {
@@ -147,8 +155,4 @@ footer {
     content: " ";
     clear: both;
     height: 0;
-}
-
-img.portrait {
-	max-width: 100%;
 }

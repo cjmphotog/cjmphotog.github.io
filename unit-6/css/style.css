@@ -165,10 +165,6 @@ footer {
 	padding-bottom: 8em;
 }
 
-#content {
-	float: right;
-}
-
 .clearfix:after {
     visibility: hidden;
     display: block;

@@ -165,8 +165,7 @@ footer {
 }
 
 #film-content {
-	padding-left: 28em;
-    padding-right: 28em;
+	padding-left: 30em;
     padding-bottom: 8em;
 }
 
@@ -176,7 +175,10 @@ img#film {
 
 #about-content {
 	display: inline-block;
-	text-align: center;
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 6em;
+    padding-bottom: 8em;
 }
 
 .clearfix:after {

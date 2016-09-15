@@ -48,6 +48,10 @@ header {
 	font-weight: lighter;
 }
 
+#cta1 {
+	background-color: #808080;
+}
+
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;

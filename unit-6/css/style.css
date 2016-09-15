@@ -115,13 +115,13 @@ a.cta2:hover {
     padding-bottom: 8em;
 }
 
-.people {
+.portrait {
 	display: inline-block;
     position: relative;
     padding: 1em;
 }
 
-img {
+img.portrait {
 	max-width: 100%;
 }
 

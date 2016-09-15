@@ -27,6 +27,7 @@ a {
 a:hover {
 	color: #575757;
 	text-decoration: none;
+	-webkit-transition: .2s;
 }
 
 header {

@@ -69,6 +69,7 @@ a.cta1 {
 a.cta1:hover {
 	background-color: #575757;
 	-webkit-transition: .2s;
+	transition-timing-function: ease-out;
 }
 
 footer {

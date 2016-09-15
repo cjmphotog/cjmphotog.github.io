@@ -25,6 +25,7 @@ a {
 a:hover {
 	color: #575757;
 	text-decoration: none;
+	transition-timing-function: ease-in;
 }
 
 header {

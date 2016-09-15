@@ -176,6 +176,7 @@ img#film {
 
 #about-content {
 	display: inline-block;
+	text-align: center;
 }
 
 .clearfix:after {

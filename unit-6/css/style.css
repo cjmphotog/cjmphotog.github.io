@@ -33,6 +33,7 @@ a:hover {
 header {
 	background-color: #e5e5e5;
 	padding: 20px;
+	display: block;
 }
 
 #nav-top {
@@ -92,13 +93,15 @@ a.cta2 {
 	color: #ffffff;
 	display: inline-block;
 	font-size: .8em;
-	width: 5em;
-	border-radius: 5em;
-	margin: .5em;
-	padding: 1em;
-	text-align: center;
-	text-decoration: none;
-	-webkit-transition: .2s;
+	width: 100px;
+    height: 100px;
+    line-height: 4.5em;
+    border-radius: 180px;
+    margin: .5em;
+    padding: 1em;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: .2s;
 }
 
 a.cta2:hover {

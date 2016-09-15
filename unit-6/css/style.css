@@ -24,7 +24,7 @@ a {
 
 a:hover {
 	color: #575757;
-	-webkit-transition: .5s 0s;
+	-webkit-transition: .2s 0s;
 	text-decoration: none;
 }
 

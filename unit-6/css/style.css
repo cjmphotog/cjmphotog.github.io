@@ -52,6 +52,7 @@ a.cta1 {
 	background-color: #808080;
 	font-family: "Oswald" sans-serif;
 	text-transform: uppercase;
+	display: block;
 	font-size: 1.2em;
 	width: 12em;
 	border: .2em;

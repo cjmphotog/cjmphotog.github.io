@@ -161,12 +161,12 @@ footer {
 }
 
 #film-content {
-	padding-left: 200px;
-    padding-right: 180px;
+	padding-left: 28em;
+    padding-right: 28em;
     padding-bottom: 8em;
 }
 
-#film {
+img#film {
 	display: inline-block;
 }
 

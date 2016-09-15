@@ -74,6 +74,20 @@ a.cta1:hover {
 	-webkit-transition: .2s;
 }
 
+#sponsors-top {
+	padding-bottom: 8em;
+	text-align: center;
+	font-size: 1em;
+	font-weight: lighter;
+}
+
+a.cta2 {
+	background-color: #e5e5e5;
+	font-family: "Oswald", sans-serif;
+	color: #ffffff;
+	display: block;
+}
+
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;

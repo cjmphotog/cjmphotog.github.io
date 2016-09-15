@@ -150,13 +150,6 @@ img.portrait {
     transition-timing-function: cubic-bezier(0.420, 0.000, 0.580, 1.000);
 }
 
-footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-	text-align: center;
-}
-
 #home {
 	height: auto;
 	width: auto;
@@ -193,6 +186,11 @@ img#film {
 
 #sponsors-bottom-title {
 	padding-bottom: 1em;
+}
+
+footer {
+	padding: 20px;
+	text-align: center;
 }
 
 .clearfix:after {

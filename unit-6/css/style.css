@@ -109,8 +109,12 @@ a.cta2:hover {
 	-webkit-transition: .2s;
 }
 
-#stories-content {
+.people {
 	display: inline-block;
+}
+
+.overlay {
+	display: none;
 }
 
 footer {

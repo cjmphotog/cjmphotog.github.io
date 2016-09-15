@@ -64,12 +64,12 @@ a.cta1 {
 	padding: 1em;
 	text-align: center;
 	text-decoration: none;
+	-webkit-transition: .2s;
 }
 
 a.cta1:hover {
 	background-color: #575757;
 	-webkit-transition: .2s;
-	transition-timing-function: ease-out;
 }
 
 footer {

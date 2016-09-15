@@ -37,6 +37,7 @@ header {
 	font-family: "Oswald", sans-serif;
 	text-transform: uppercase;
 	font-size: 1.2em;
+	letter-spacing: 1px;
 	padding-top: 1em;
 	word-spacing: 1em;
 }
@@ -50,14 +51,15 @@ header {
 
 a.cta1 {
 	background-color: #808080;
-	font-family: "Oswald" sans-serif;
+	font-family: "Oswald", sans-serif;
+	color: #ffffff;
 	text-transform: uppercase;
-	display: block;
-	font-size: 1.2em;
+	display: inline-block;
+	font-size: .8em;
+	letter-spacing: 1px;
 	width: 12em;
-	border: .2em;
 	border-radius: 1em;
-	padding: 1.5em 0;
+	padding: 1em;
 	text-align: center;
 	text-decoration: none;
 }

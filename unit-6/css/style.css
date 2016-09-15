@@ -181,6 +181,15 @@ img#film {
     padding-bottom: 8em;
 }
 
+#sponsors-bottom {
+	text-transform: uppercase;
+	display: inline-block;
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 6em;
+    padding-bottom: 8em;
+}
+
 .clearfix:after {
     visibility: hidden;
     display: block;

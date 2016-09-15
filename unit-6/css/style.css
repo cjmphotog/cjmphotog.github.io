@@ -160,6 +160,11 @@ footer {
 	float: left;
 }
 
+#film-conent {
+	display: inline-block;
+	padding-bottom: 8em;
+}
+
 #content {
 	float: right;
 }

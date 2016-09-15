@@ -124,7 +124,7 @@ a.cta2:hover {
 }
 
 #stories-content {
-	padding-left: 200px;
+	padding-left: 210px;
     padding-right: 180px;
     padding-bottom: 8em;
 }
@@ -168,7 +168,7 @@ img.portrait {
 }
 
 #film-content {
-	padding-left: 30em;
+	padding-left: 30.5em;
     padding-bottom: 8em;
 }
 
@@ -179,7 +179,7 @@ img#film {
 #about-content {
 	display: inline-block;
     text-align: center;
-    padding-left: 3em;
+    padding-left: 6em;
     padding-right: 6em;
     padding-bottom: 8em;
 }
@@ -188,7 +188,7 @@ img#film {
 	text-transform: uppercase;
     text-align: center;
     font-size: 1.2em;
-    padding-left: 3em;
+    padding-left: 6em;
     padding-right: 6em;
     padding-bottom: 8em;
 }

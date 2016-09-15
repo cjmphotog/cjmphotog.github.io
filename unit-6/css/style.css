@@ -12,6 +12,21 @@ h1, h2 {
 	text-transform: uppercase;
 }
 
+h1 {
+	color: #d22027;
+	font-size: 1.8em;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #575757;
+	text-decoration: none;
+}
+
 header {
 	background-color: #e5e5e5;
 	padding: 20px;
@@ -26,23 +41,11 @@ header {
 	word-spacing: 1em;
 }
 
-a {
-	color: #000000;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #575757;
-	text-decoration: none;
-}
-
-h1 {
-	color: #d22027;
-}
-
 #splash {
-	padding: 20em;
+	padding: 8em;
 	text-align: center;
+	font-size: 1.5em;
+	font-weight: lighter;
 }
 
 footer {

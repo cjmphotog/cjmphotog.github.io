@@ -22,6 +22,10 @@ span {
 	font-weight: bold;
 }
 
+p {
+	margin: 10px;
+}
+
 a {
 	color: #000000;
 	text-decoration: none;
@@ -159,6 +163,7 @@ img.portrait {
     bottom: -20em;
     line-height: 1.2;
 }
+
 .portrait:hover .overlay {
 	bottom: 0;
 }

@@ -88,6 +88,14 @@ a.cta1:hover {
 	-webkit-transition: .2s;
 }
 
+#home {
+	height: auto;
+	width: auto;
+	max-height: 69px;
+	max-width: 80px;
+	float: left;
+}
+
 #sponsors-top {
 	padding-bottom: 8em;
 	text-align: center;
@@ -153,17 +161,6 @@ img.portrait {
 }
 .portrait:hover .overlay {
 	bottom: 0;
-}
-
-* {
-}
-
-#home {
-	height: auto;
-	width: auto;
-	max-height: 69px;
-	max-width: 80px;
-	float: left;
 }
 
 #film-content {

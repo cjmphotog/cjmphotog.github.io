@@ -22,10 +22,6 @@ span {
 	font-weight: bold;
 }
 
-p {
-	margin: 10px;
-}
-
 a {
 	color: #000000;
 	text-decoration: none;
@@ -178,6 +174,15 @@ img#film {
 #about-content {
 	padding-bottom: 8em;
 	max-width: 35em;
+}
+
+p#about-content {
+	margin: 10px;
+}
+
+#credit-line {
+	display: block;
+	margin: 0;
 }
 
 #sponsors-bottom {

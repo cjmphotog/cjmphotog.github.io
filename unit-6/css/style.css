@@ -135,10 +135,6 @@ a.cta2:hover {
 	-webkit-transition: .2s;
 }
 
-#stories-content {
-	padding-bottom: 8em;
-}
-
 .portrait {
 	display: inline-block;
 	position: relative;
@@ -169,6 +165,7 @@ img.portrait {
 }
 
 #film-content {
+	padding-top: 8em;
 	padding-bottom: 8em;
 	text-align: center;
 }

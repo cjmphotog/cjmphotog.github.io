@@ -177,6 +177,7 @@ img#film {
 }
 
 p#about-content {
+	display: block;
 	margin: 10px;
 }
 

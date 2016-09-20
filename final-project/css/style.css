@@ -260,7 +260,11 @@ footer {
 
 .nav-internal {
 	float: right;
-	padding-top: .6em;
+	padding-top: .5em;
+}
+
+.counter {
+	padding: 1em;
 }
 
 .portrait-full-img {

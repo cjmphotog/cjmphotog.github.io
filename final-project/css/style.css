@@ -206,8 +206,9 @@ a.cta2:hover {
 
 footer {
 	background-color: #e5e5e5;
-	padding: 20px;
+	font-size: 80%;
 	text-align: center;
+	padding: 20px;
 	margin: auto;
 }
 
@@ -331,7 +332,7 @@ footer {
 
 @media only screen and (max-width: 599px) {
 	footer {
-		font-size: 80%;
+		font-size: 70%;
 	}
 }
 

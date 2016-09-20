@@ -343,5 +343,5 @@ footer {
 
 @media only screen and (max-width: 320px) {
 	.overlay {
-		display:none;
+		display: none;
 }

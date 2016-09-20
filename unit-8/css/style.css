@@ -244,3 +244,16 @@ footer {
 		font-size: 65%;
 	}
 }
+
+@media only screen and (max-width: 400px) {
+	#nav-top {
+		float: none;
+		display: block;
+		display: 0 auto;
+		text-align: center;
+	}
+	.home {
+		text-align: center;
+		display: block;
+	}
+}

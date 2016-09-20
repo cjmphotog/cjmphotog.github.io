@@ -296,22 +296,25 @@ footer {
 }
 
 @media only screen and (max-width: 800px) {
+	body {
+		margin: 0 auto;
+	}
 	.overlay {
 		font-size: 70%;
 	}
 	#nav-top {
-	float: none;
-	display: block;
-	text-align: center;
+		float: none;
+		display: block;
+		text-align: center;
 	}
 	.nav-internal {
-	float: none;
-	display: block;
-	text-align: center;
+		float: none;
+		display: block;
+		text-align: center;
 	}
 	.home {
-	display: block;
-	text-align: center;
+		display: block;
+		text-align: center;
 	}
 }
 

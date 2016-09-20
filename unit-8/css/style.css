@@ -249,11 +249,10 @@ footer {
 	#nav-top {
 		float: none;
 		display: block;
-		display: 0 auto;
 		text-align: center;
 	}
 	.home {
-		text-align: center;
 		display: block;
+		text-align: center;
 	}
 }

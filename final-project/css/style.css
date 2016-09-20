@@ -18,6 +18,10 @@ h1 {
 	font-size: 1.8em;
 }
 
+h2 {
+	color: #d22027;
+}
+
 h3 {
 	margin-bottom: .5em;
 }
@@ -64,7 +68,7 @@ header {
 }
 
 #splash {
-	padding: 8em 0em 8em 0em;
+	padding-top: 8em;
 	text-align: center;
 	font-size: 1.5em;
 	font-weight: lighter;
@@ -94,7 +98,7 @@ a.cta1:hover {
 }
 
 #sponsors-top {
-	padding-bottom: 8em;
+	padding-top: 8em;
 	text-align: center;
 	font-size: 1.2em;
 	font-weight: lighter;
@@ -104,6 +108,7 @@ a.cta1:hover {
 
 #sponsor-top-title {
 	text-transform: uppercase;
+	text-align: center;
 	padding-bottom: 1em;
 }
 
@@ -130,8 +135,11 @@ a.cta2:hover {
 }
 
 #stories-content {
-	padding-bottom: 8em;
-	margin: 0 auto;
+	padding-top: 4em;
+}
+
+#stories-title {
+	color: #000000;
 }
 
 .portrait {
@@ -166,13 +174,13 @@ a.cta2:hover {
 }
 
 #film-content {
-	padding-bottom: 8em;
 	text-align: center;
 	margin: 0 auto;
+	padding-top: 8em;
 }
 
 #about-content {
-	padding-bottom: 8em;
+	padding-top: 8em;
 	max-width: 35em;
 	text-align: justify;
 	margin: 0 auto;
@@ -186,11 +194,12 @@ a.cta2:hover {
 	text-transform: uppercase;
     text-align: center;
     font-size: 1.2em;
-    padding-bottom: 8em;
+    padding: 8em 0em 8em 0em;
     margin: 0 auto;
 }
 
 #sponsors-bottom-title {
+	color: #000000;
 	padding-bottom: 1em;
 }
 
@@ -212,7 +221,7 @@ footer {
 	}
 }
 
-@media only screen and (max-width: 790px) {
+@media only screen and (max-width: 800px) {
 	.overlay {
 		font-size: 70%;
 	}
@@ -220,22 +229,18 @@ footer {
 
 @media only screen and (max-width: 720px) {
 	.overlay {
-		font-size: 60%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.overlay p {
+	display: none;
 	}
 }
 
 @media only screen and (max-width: 599px) {
 	footer {
 		font-size: 80%;
-	}
-	.overlay {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		font-size: 70%;
-	}
-	.overlay p {
-		display: none;
 	}
 }
 

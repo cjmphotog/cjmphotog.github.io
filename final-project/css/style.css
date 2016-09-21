@@ -294,6 +294,9 @@ footer {
 	.overlay {
 		/* font-size: 80%; */
 		bottom:0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 	.portrait {
 		width: 32.83%;

@@ -292,7 +292,11 @@ footer {
 
 @media only screen and (max-width: 900px) {
 	.overlay {
-		font-size: 80%;
+		/* font-size: 80%; */
+		bottom:0;
+	}
+	.portrait {
+		width: 32.83%;
 	}
 }
 

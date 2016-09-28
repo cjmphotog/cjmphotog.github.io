@@ -343,7 +343,7 @@ footer {
 	}
 }
 
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 565px) {
 	footer {
 		font-size: 70%;
 	}
@@ -354,9 +354,9 @@ footer {
 		padding-left: 1em;
 		padding-right: 1em;
 	}
-	.portrait-full p, h1 {
-		padding-left: 2em;
-		padding-right: 2em;
+	.portrait-full {
+		padding-left: 1em;
+		padding-right: 1em;
 	}
 	.nav-internal {
 		float: none;

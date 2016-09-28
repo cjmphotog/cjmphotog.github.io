@@ -298,7 +298,6 @@ footer {
 
 @media only screen and (max-width: 900px) {
 	.overlay {
-<<<<<<< HEAD
 		/* font-size: 80%; */
 		bottom: 0;
 		display: flex;
@@ -337,12 +336,6 @@ footer {
 	}
 	.overlay p {
 	display: none;
-	}
-}
-
-@media only screen and (max-width: 650px) {
-		.portrait {
-		width: 65.66%;
 	}
 }
 

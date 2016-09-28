@@ -307,14 +307,11 @@ footer {
 	}
 	.portrait {
 		width: 32.83%;
-=======
 		font-size: 80%;
->>>>>>> parent of c22fc03... Merge pull request #6 from jhumbrac/patch-6
 	}
 	#splash {
 		font-size: 90%;
 	}
-	#
 }
 
 @media only screen and (max-width: 800px) {
@@ -345,8 +342,7 @@ footer {
 
 @media only screen and (max-width: 650px) {
 		.portrait {
-		width: 16.41%;
-		font-size: 70%;
+		width: 65.66%;
 	}
 }
 

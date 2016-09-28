@@ -343,6 +343,13 @@ footer {
 	}
 }
 
+@media only screen and (max-width: 650px) {
+		.portrait {
+		width: 16.41%;
+		font-size: 70%;
+	}
+}
+
 @media only screen and (max-width: 565px) {
 	footer {
 		font-size: 70%;

@@ -297,13 +297,6 @@ footer {
 }
 
 @media only screen and (max-width: 900px) {
-	.overlay {
-		/* font-size: 80%; */
-		bottom: 0;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
 	.portrait {
 		width: 32.83%;
 		font-size: 80%;
@@ -333,16 +326,15 @@ footer {
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		bottom: 0;
+		display: flex;
 	}
 	.overlay p {
 	display: none;
 	}
 }
 
-@media only screen and (max-width: 565px) {
-	footer {
-		font-size: 70%;
-	}
+@media only screen and (max-width: 600px) {
 	#film {
 		max-width: 20em;
 	}
@@ -359,15 +351,7 @@ footer {
 		display: block;
 		text-align: center;
 	}
-}
-
-@media only screen and (max-width: 400px) {
-	.overlay {
-		font-size: 60%;
+	footer {
+		font-size: 70%;
 	}
-}
-
-@media only screen and (max-width: 320px) {
-	.overlay {
-		display: none;
 }

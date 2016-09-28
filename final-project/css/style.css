@@ -298,6 +298,9 @@ footer {
 		justify-content: center;
 		align-items: center;
 	}
+	.overlay p {
+		display: none;
+	}
 	.portrait {
 		width: 32.83%;
 	}

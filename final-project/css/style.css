@@ -299,7 +299,7 @@ footer {
 @media only screen and (max-width: 900px) {
 	.overlay {
 		/* font-size: 80%; */
-		bottom: 0;
+		bottom:0;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -325,6 +325,11 @@ footer {
 		display: block;
 		text-align: center;
 	}
+	.nav-internal {
+		float: none;
+		display: block;
+		text-align: center;
+	}
 	.home {
 		display: block;
 		text-align: center;
@@ -342,25 +347,9 @@ footer {
 	}
 }
 
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 599px) {
 	footer {
 		font-size: 70%;
-	}
-	#film {
-		max-width: 20em;
-	}
-	#about-content {
-		padding-left: 1em;
-		padding-right: 1em;
-	}
-	.portrait-full p, h1 {
-		padding-left: 2em;
-		padding-right: 2em;
-	}
-	.nav-internal {
-		float: none;
-		display: block;
-		text-align: center;
 	}
 }
 

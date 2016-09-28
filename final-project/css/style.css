@@ -106,15 +106,32 @@ a.cta1:hover {
 	margin: 0 auto;
 }
 
-#sponsors-top-title {
+#sponsor-top-title {
 	text-transform: uppercase;
 	text-align: center;
-	font-size: 90%;
 	padding-bottom: 1em;
 }
 
 a.cta2 {
-	margin: 0 auto;
+	background-color: #e5e5e5;
+	font-family: "Oswald", sans-serif;
+	color: #ffffff;
+	display: inline-block;
+	font-size: .8em;
+	width: 100px;
+    height: 100px;
+    line-height: 4.5em;
+    border-radius: 180px;
+    margin: .5em;
+    padding: 1em;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: .2s;
+}
+
+a.cta2:hover {
+	background-color: #808080;
+	-webkit-transition: .2s;
 }
 
 #stories-content {
@@ -180,28 +197,6 @@ a.cta2 {
     font-size: 1.2em;
     padding-bottom: 8em;
     margin: 0 auto;
-}
-
-a.cta3 {
-	background-color: #e5e5e5;
-	font-family: "Oswald", sans-serif;
-	color: #ffffff;
-	display: inline-block;
-	font-size: .8em;
-	width: 100px;
-    height: 100px;
-    line-height: 4.5em;
-    border-radius: 180px;
-    margin: .5em;
-    padding: 1em;
-    text-align: center;
-    text-decoration: none;
-    -webkit-transition: .2s;
-}
-
-a.cta3:hover {
-	background-color: #808080;
-	-webkit-transition: .2s;
 }
 
 #sponsors-bottom-title {
@@ -309,15 +304,14 @@ footer {
 	.portrait {
 		width: 32.83%;
 	}
-	#splash {
-		font-size: 90%;
-	}
-	#
 }
 
 @media only screen and (max-width: 800px) {
 	body {
 		margin: 0 auto;
+	}
+	.overlay {
+		font-size: 70%;
 	}
 	#nav-top {
 		float: none;

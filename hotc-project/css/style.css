@@ -110,7 +110,6 @@ a.cta1:hover {
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 90%;
-	padding-bottom: 1em;
 }
 
 a.cta2 {
@@ -346,6 +345,9 @@ footer {
 	.portrait-full {
 		padding-left: 1em;
 		padding-right: 1em;
+	}
+	#sponsors-top-title {
+		padding-bottom: 1em;
 	}
 	.nav-internal {
 		float: none;

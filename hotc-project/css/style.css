@@ -121,6 +121,10 @@ a.cta2 {
 	padding-top: 4em;
 }
 
+#italic {
+	font-style: italic;
+}
+
 #stories-title {
 	color: #000000;
 }
@@ -210,6 +214,10 @@ a.cta3:hover {
 	padding-bottom: 1em;
 }
 
+#sponsors-bottom {
+	display: none;
+}
+
 footer {
 	background-color: #e5e5e5;
 	font-size: 80%;
@@ -293,7 +301,11 @@ footer {
 
 .portrait-title {
 	color: #000000;
-	padding: 1em 0em .2em 0em;
+	padding: 1em 0em .5em 0em;
+}
+
+.bold {
+	font-weight: bold;
 }
 
 @media only screen and (max-width: 900px) {

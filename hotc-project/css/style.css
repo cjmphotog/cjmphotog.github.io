@@ -301,7 +301,12 @@ footer {
 
 .portrait-title {
 	color: #000000;
-	padding: 1em 0em .5em 0em;
+	padding: 1em 0em 0em 0em;
+}
+
+.portrait-subtitle {
+	padding: 0em 0em .5em 0em;
+	font-size: 1em;
 }
 
 .bold {
